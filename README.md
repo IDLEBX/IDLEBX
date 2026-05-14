@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 **3D Matrix Cube - My Profile** 🌟
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=idlebx&bg_color=0a0a0a&color=00FFAA&line=00FFAA&point=FF3366&area=true&hide_border=true&radius=16&custom_title=✨%203D%20Activity%20Matrix%20Graph%20✨" width="95%" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧬 **من أنا؟ | 3D Identity Card**
+## 🧬 **من أنا؟ |  Identity Card**
 
 <p align="center">
   <table border="0" align="center">
@@ -43,7 +43,6 @@
 
 ---
 
-## 🎨 **3D Tech Stack | الأدوات ثلاثية الأبعاد**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,c,html,css,js,php,nodejs,react,mysql,mongodb,docker,linux,git&perline=7&theme=dark" />
@@ -57,7 +56,6 @@
 
 ---
 
-## 🔥 **3D Contribution Snake (Eating my code)** 🔥
 
 <p align="center">
   <picture>
@@ -68,7 +66,6 @@
 
 ---
 
-## 📊 **3D Metrics & Analytics**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=idlebx&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="90%" />
@@ -80,7 +77,6 @@
 
 ---
 
-## 🕹️ **3D Hover Cards - Projects**
 
 <p align="center">
   <table align="center">
@@ -103,7 +99,6 @@
 
 ---
 
-## 🌐 **Connect with me | 3D Social Network**
 
 <p align="center">
   <a href="https://www.instagram.com/xlb_me" target="_blank">
@@ -116,7 +111,6 @@
 
 ---
 
-## 🎭 **3D Glowing Quote**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20truly%20secure%20system%20is%20one%20that%20is%20powered%20off&author=IdlebX" width="90%" />
